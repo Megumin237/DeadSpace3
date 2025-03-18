@@ -1,0 +1,19 @@
+{
+    "games": [
+      {
+        "name": "Lego Horizon Adventures",
+        "version": "1.0.2",
+        "url": "https://yourserver.com/LegoHorizon.zip"
+      },
+      {
+        "name": "Dead Space 3",
+        "version": "alpha",
+        "url": "url"
+      },
+      {
+        "name": "R.E.P.O.",
+        "version": "17.03.25",
+        "url": "https://drive.google.com/drive/folders/1U_5uwXEIK455zi-E20ZvA8vdNjUIC431?usp=sharing"
+      }
+    ]
+  }
