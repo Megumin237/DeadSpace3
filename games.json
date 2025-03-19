@@ -2,18 +2,21 @@
     "games": [
       {
         "name": "Lego Horizon Adventures",
-        "version": "1.0.2",
-        "url": "https://yourserver.com/LegoHorizon.zip"
+        "last_updated": "nil",
+        "download_url": "https://example.com/game1.zip",
+        "description": "Опис гри 1."
       },
       {
         "name": "Dead Space 3",
-        "version": "alpha",
-        "url": "url"
+        "last_updated": "nil",
+        "download_url": "https://example.com/game2.zip",
+        "description": "Опис гри 2."
       },
       {
         "name": "R.E.P.O.",
-        "version": "17.03.25",
-        "url": "https://drive.google.com/drive/folders/1U_5uwXEIK455zi-E20ZvA8vdNjUIC431?usp=sharing"
+        "last_updated": "16.03.2025",
+        "url": "https://drive.google.com/drive/folders/1U_5uwXEIK455zi-E20ZvA8vdNjUIC431?usp=sharing",
+        "description": "Опис гри 3."
       }
     ]
   }
